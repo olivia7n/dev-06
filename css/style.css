@@ -1,0 +1,13 @@
+body {
+  background-color: mediumaquamarine;
+  font-style: italic;
+}
+
+h1 {
+  color: maroon;
+  font-weight: 300;
+}
+
+footer {
+  margin-top: 500px;
+}
